@@ -7,6 +7,5 @@ title: First Page
 Абсолютно никто:
 
 
-Саша (пока все работают над RD):
-
+Саша (пока все работают над RD):  
 ![tomdelongesayshitoyou]({{ site.baseurl }}/images/tomdelongewtf.gif)
