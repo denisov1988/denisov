@@ -3,8 +3,7 @@ layout: post
 title: First Page
 ---
 
-Никто:
-
+Никто:  
 Абсолютно никто:
 
 
